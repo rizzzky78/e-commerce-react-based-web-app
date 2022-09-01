@@ -1,0 +1,60 @@
+/* Main Tree CSS */
+
+.App-header {
+    font-size:medium;
+}
+
+.MyEtalase1 {
+    display:flex;
+    align-items: flex-start;
+    font-size: small;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.MyEtalase2 {
+    display:flex;
+    align-items: flex-start;
+    font-size: small;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+    .Individual-Etalase {
+        padding: 10px;
+    }
+
+    .Title {
+        padding-left: 3%;
+    }
+
+.MyCarousel {
+    padding-right: 10px;
+}
+.Carousel-Profile {
+    min-height: 80vh;
+    display: flex;
+    align-items: flex-start;
+    padding: 3%;
+}
+
+.Tabs {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.Content {
+    font-size: small;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.Footer {
+    padding-top: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    display: flex;
+    align-items: center;
+}
+    .text-footer {
+        text-align: right;
+    }
